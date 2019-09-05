@@ -1,5 +1,5 @@
 # test-assignment-01-aserdobintsev
-# test-console commit
+# Test Console Commit
 # visible commit
 
 # another test
